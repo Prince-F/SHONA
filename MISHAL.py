@@ -63,13 +63,13 @@ banner = """
 \x1b[1;91m\_______)|/     \|(_______)|/    )_)|/     \|
 \x1b[1;94m             (HOLIC) ❤ (HEART)                              
 \x1b[1;94m||||||||||||||||||||||||||||||||||||||||||||||||
-\x1b[1;93m➣ Coder   : S   H   O  N   A 
-\x1b[1;93m➣Thought  : A MAN IS GREAT BY DEEDS, nOT BY BIRTH..
-\x1b[1;93m➣ Life    : Don't Choose The 0ne Who Is Beautiful To The World. 
-\x1b[1;93m➣ Life    : But Rather, Choose The 0ne Who Makes Your World Beautiful.
-\x1b[1;93m➣ Whatsaps:+923035191880
-\x1b[1;93m➣ Gang    :  NIGHT 007 FAMILY 
-\x1b[1;94m||||||||||||||||||||||||||||||||||||||||||||||||||||||||||"""
+\x1b[1;92m➣ CODER  : S H O N A....X....M I S H I
+\x1b[1;92m➣ THOUGHT: A MAN IS GREAT BY DEEDS, nOT BY BIRTH..
+\x1b[1;92m➣ LIFE   : Don't Choose The 0ne Who Is Beautiful To The World. 
+\x1b[1;92m➣ LIFE   : But Rather,Chose The 0ne Who Makes Ur World Beautiful.
+\x1b[1;92m➣ WHATSAP:+923035191880
+\x1b[1;92m➣ GANG   :  NIGHT 007 FAMILY 
+\x1b[1;94m||||||||||||||||||||||||||||||||||||||||||||||||||"""
 # titik #
 def tik():
 	titik = [".   ","..  ","... "]
